@@ -40,5 +40,4 @@ const deployGovernanceToken: DeployFunction = async function (hre: HardhatRuntim
 }
 
 
-
 export default deployGovernanceToken;
